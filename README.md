@@ -3,7 +3,7 @@ I’m currently learning UX Design and Web Development 💻
 
 I am passionate about the digital world 🌐 and, in particular, the front-end development of web portals 🖥 in order to guarantee an effective, engaging and functional user experience 🧑🏻‍💻 🚀
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
 
 <!--
 **volp99/volp99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
