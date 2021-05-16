@@ -3,7 +3,7 @@ I’m currently learning UX Design and Web Development 💻
 
 I am passionate about the digital world 🌐 and, in particular, the front-end development of web portals 🖥 in order to guarantee an effective, engaging and functional user experience 🧑🏻‍💻 🚀
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=volp99&langs_count=5&theme=dracula)]()
+
 
 
 <!--
