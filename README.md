@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently learning UX Design and Web Development 💻
+I’m currently learning UX Design and Web Development. 💻
 
 I am passionate about the digital world 🌐 and, in particular, the front-end development of web portals 🖥 in order to guarantee an effective, engaging and functional user experience. 🧑🏻‍💻 🚀
 
