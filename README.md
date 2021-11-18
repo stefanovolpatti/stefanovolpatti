@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently learning UX Design and Web Development. 💻
+I’m a Front-End Developer & UX Designer 💻
 
 I am passionate about the digital world 🌐 and, in particular, the Front-End development of web portals 🖥  in order to guarantee an effective, engaging and functional user experience 🧑🏻‍💻 🚀
 
