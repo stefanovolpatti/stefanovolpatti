@@ -4,9 +4,9 @@ I’m a Front-End Developer & UX Designer 💻
 I am passionate about the digital and open source world and, in particular, the Front-End development of web portals in order to guarantee an effective, engaging and functional user experience.
 
 
-<hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volp99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volp99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
