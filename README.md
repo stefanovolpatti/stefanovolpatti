@@ -6,7 +6,7 @@ I am passionate about the digital and open source world and, in particular, the 
 - 🌱 I'm currently learning MFE Architectures
 - 🇮🇹 Living in Milan
 - 📫 How to reach me:
-  - [Mail](mailto:stefanovolpatti@yahoo.it)
+  - [Mail](mailto:stefano@volpatti.dev)
   - [LinkedIn](https://www.linkedin.com/in/stefano-volpatti/)
 
 
